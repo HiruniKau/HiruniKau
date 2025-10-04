@@ -10,12 +10,6 @@
 
 ---
 
-🌐 **Connect with Me:**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/HiruniKaushalyaIndrajith](https://www.linkedin.com/in/hiruni-kaushalya-indrajith-446688311?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-
----
-
 💻 **Tech Stack:**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -47,9 +41,7 @@
 
 📊 **GitHub Stats:**  
 
-![](https://github-readme-stats.vercel.app/api?username=hirunikaushalya&theme=tokyonight&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hirunikaushalya&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirunikaushalya&layout=compact&theme=tokyonight)
 
 ---
 
