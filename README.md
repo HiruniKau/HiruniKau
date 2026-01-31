@@ -1,12 +1,14 @@
 # Hi there, I'm Hiruni Kaushalya 👋  
+  ![WE ARE THE RATS!](https://github.com/user-attachments/assets/0ea76d27-1a99-4704-97e2-f54f798cb795)
+
 
 💫 **About Me:**  
 
-- 🎓 I’m an **IT Undergraduate** at the **University of Sri Jayewardenepura**, Faculty of Humanities and Social Sciences  
-- 🎨 A passionate **UI/UX Designer** and **Full-Stack Developer** who loves crafting meaningful, user-friendly, and visually engaging digital experiences  
-- 💻 Skilled in **Web Development**, **Mobile App Development**, and **Modern Interface Design**  
-- 🌱 Currently exploring **AI/ML**, **Cloud Computing**, and **Ethical Hacking**  
-- 💡 Always eager to learn, innovate, and design with purpose  
+🎓 I’m an **IT Undergraduate** at the **University of Sri Jayewardenepura**, Faculty of Humanities and Social Sciences  
+🎨 A passionate **UI/UX Designer** and **Full-Stack Developer** who loves crafting meaningful, user-friendly, and visually engaging digital experiences  
+💻 Skilled in **Web Development**, **Mobile App Development**, and **Modern Interface Design**  
+🌱 Currently exploring **AI/ML**, **Cloud Computing**, and **Ethical Hacking**  
+💡 Always eager to learn, innovate, and design with purpose  
 
 ---
 
@@ -43,6 +45,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
-💖 *"Design with empathy, code with purpose, and build with passion."*
