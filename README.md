@@ -1,5 +1,8 @@
 # Hi there, I'm Hiruni Kaushalya 👋  
-  ![WE ARE THE RATS!](https://github.com/user-attachments/assets/0ea76d27-1a99-4704-97e2-f54f798cb795)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/0ea76d27-1a99-4704-97e2-f54f798cb795" width="300" />
+</p>
+
 
 
 💫 **About Me:**  
@@ -41,8 +44,6 @@
 
 ---
 
-✍️ **Random Dev Quote:**  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
